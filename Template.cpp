@@ -13,7 +13,7 @@
 #define COUT(n) cout << n;
 #define CINV(a, n) for (int i = 0; i < n; i++) {cin >> a[i];}
 #define COUTV(a, n) for (int i = 0; i < n; i++) {cout << a[i] << " ";}
-#define ENDL cout << endl;
+#define ENDL cout << "\n";
 #define SORT(a) sort(a.begin(), a.end())
 #define TWONUMV(n, k, a) INTCIN(n); INTCIN(k); vint a(n); CINV(a, n);
 
